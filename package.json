@@ -1,0 +1,22 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "API for learning project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katesheleh/http-server.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Katia Sheleh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katesheleh/http-server/issues"
+  },
+  "homepage": "https://github.com/katesheleh/http-server#readme"
+}
